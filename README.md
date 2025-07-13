@@ -51,8 +51,8 @@ Ask any cooking-related question and get serious, instructional advice from an A
 
 ## 🖼️ Screenshot
 
-![Cooking Guide AI Screenshot](<img width="939" height="855" alt="image" src="https://github.com/user-attachments/assets/6f015027-c8d1-406d-a0c0-9a3e48e88d50" />
-)
+<img width="939" height="855" alt="image" src="https://github.com/user-attachments/assets/db40a851-d28f-431c-8970-edd5a4056c26" />
+
 
 ---
 
