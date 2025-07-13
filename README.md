@@ -89,6 +89,6 @@ To protect your key:
 
 ## 📜 License
 
-MIT License © 2025 [Your Name or Organization]
+MIT License © 2025 [Suryansh Garg]
 
 ---
